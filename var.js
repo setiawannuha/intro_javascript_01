@@ -17,3 +17,5 @@
 let alamat = "jakarta";
 alamat = 123;
 console.log(typeof(alamat));
+
+console.log("TEST")
